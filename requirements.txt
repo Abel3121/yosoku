@@ -1,0 +1,9 @@
+chain
+numpy
+panda
+streamlit
+matplotlib
+japanize_matplotlib
+seaborn
+sklearn
+imblearn
